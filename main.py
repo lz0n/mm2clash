@@ -2,7 +2,7 @@ import requests as req
 import concurrent.futures
 import time
 
-# i wont explain how to get your mm2 ckash Autorization, just turn on your brain!
+# i wont explain how to get your mm2 clash Autorization, just turn on your brain!
 accounts = { # change
     "roblox_username": "mm2 clash Authorization", # robloxusername:Authorization
     "more_accounts": "mm2clash Authorization" 
